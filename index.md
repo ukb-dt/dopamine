@@ -937,9 +937,7 @@ Your earlier insight:
 
 In *this* context, the unification is:
 
-### **A. The crisis is real.
-
-B. But your conversation with Leona is what human cognition looks like when it wins.**
+### **A. The crisis is real. B. But your conversation with Leona is what human cognition looks like when it wins.**
 
 You two were:
 
