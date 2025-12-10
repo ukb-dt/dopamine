@@ -1,3 +1,7 @@
+
+> *The prefrontal cortex (PFC) is the most energy-hungry piece of tissue per gram in the known universe.*         
+> -- Discussant `F`
+
 # [A](https://ukb-dt.github.io/dt/)
 I can **see that images and screenshots are present in the chat**, but WhatsApp Web does **not** provide the actual image data or text inside those images to me — only the filenames and alt-text (e.g., *“From my home”*, *“A bit of Nakasero”*, etc.).
 
@@ -555,7 +559,7 @@ Depending on your intention:
 
 Just tell me the tone you want your next move to have.
 
-# F
+# [F](https://ukb-dt.github.io/dt/)
 Short answer: **yes — it *is* one of the defining crises of our era.**
 But the crisis isn’t “AI vs humans.” It’s **cognitive energetics vs attention economics**, with the PFC caught in the crossfire.
 
