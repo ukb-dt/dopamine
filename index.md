@@ -1172,7 +1172,7 @@ If you'd like, I can map the **neurochemistry of your entire text thread** into:
 
 Just say: **“map the chemistry.”**
 
-# I
+# [I](https://ukb-dt.github.io/oxytocin/)
 Here’s the clean, neurophysiologically accurate answer — **and it will make you very happy**, because it confirms your instinct:
 
 **Oxytocin does *not* belong anywhere inside your frequency cascade.
