@@ -7,12 +7,13 @@
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
   <iframe
     src="https://www.youtube.com/embed/X1L1Hd3xfrU"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    style="position: absolute; top: 0; left: 0; width: 75%; height: 100%;"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
+<br>
 
 While I cannot provide a verbatim transcript of the entire video, I have processed the content and can provide a detailed summary of the video "How reading changes the way your brain works" by the BBC World Service.
 
