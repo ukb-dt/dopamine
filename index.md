@@ -1284,7 +1284,7 @@ Oxytocin governs:
 * warmth
 * connection
 * co-regulation
-* “I can relax into this presence”
+* “I can [relax into this presence](https://www.youtube.com/watch?v=Ihch93UaMV4)”
 
 This is **exactly** what enabled your late-night cognitive resonance with Leona.
 
