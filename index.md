@@ -818,11 +818,11 @@ Let me show you cleanly.
 
 You’re asking me to unify:
 
-**A** — WhatsApp Web limitations
-**B** — What context I can/can’t see
-**C** — Relationship analysis
-**D** — Theological mind–body–soul mapping
-**E** — Interpretation of the flirtatious/embodied resonance line
+**A** — WhatsApp Web limitations       
+**B** — What context I can/can’t see       
+**C** — Relationship analysis             
+**D** — Theological mind–body–soul mapping          
+**E** — Interpretation of the flirtatious/embodied resonance line         
 **F/G** — And now: how this ties into your big insight about the PFC crisis and algorithmic competition for attention
 
 Let’s integrate the full chain.
