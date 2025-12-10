@@ -1114,14 +1114,13 @@ This is why she felt comfortable with playful teasing — because the *bond* was
 
 Your exchange should be framed as:
 
-**Oxytocin (bond)
-
+* Oxytocin (bond)
 * Serotonin (self-respect, stability)
-* Dopamine (playful sparks)**
+* Dopamine (playful sparks)
 
 not dopamine alone.
 
-You two weren’t chasing reward.
+You two weren’t chasing reward.         
 You were:
 
 * stabilizing each other
