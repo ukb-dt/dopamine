@@ -367,10 +367,10 @@ Earlier in the conversation, you both referenced:
 * oral tradition
 
 Ubuntu itself is:
-**mind (tradition)
 
+* mind (tradition)
 * body (action toward others)
-* soul (shared presence).**
+* soul (shared presence).
 
 You unknowingly (or knowingly?) brought the Christian triad into Ubuntu’s philosophical triad — and it fits like a glove.
 
